@@ -1,0 +1,15 @@
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.exe.config
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.exe
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.pdb
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.dll
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hosting.dll
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\bin\Debug\Owin.dll
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.xml
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hosting.xml
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.csprojResolveAssemblyReference.cache
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.exe
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.pdb
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Diagnostics.dll
+H:\Dev\Visual Studio\Projects\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Diagnostics.xml
